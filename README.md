@@ -6,4 +6,4 @@
 
 ## 💻 Sobre o Repositório 🤔
 
-Este repositório contém alguns dos testes que fiz durante meu curso inicial ao python.
+Este repositório contém alguns dos testes que fiz durante meu curso inicial ao python..
